@@ -1,0 +1,21 @@
+<!DOCTYPE>
+   <html>
+     <body>
+        <form>
+            <label for="nome"> Nome:</label>
+            <input type="text" id="nome"/>
+
+            <label for="datadenascimento">data de Nascimento:</label>
+            <input type="date"id="datadenascimento"/>
+            <input type="email"/>
+            <input type="password"/>
+            <label>hobbies:</label>
+
+            <input type="checkbox">Maquiagem
+            <input type="checkbox>">
+            <input type="checkbox>">
+
+            <input type="reset" value="limpar"/>
+        </form>
+     </body>
+   </html>
